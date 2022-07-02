@@ -6,3 +6,4 @@
 # <a href="https://download.adobe.com/pub/adobe/photoshop/win/13.x/Win_Scripting_Plug-In.zip">PhotoShop脚本监听器下载</a>
 # <a href="https://github.com/Adobe-CEP/CEP-Resources">Common Extensibility Platform for adobe</a>
 # <a href="https://github.com/grimgoon/Photoshop-CC-Advanced-Training-Course">Photoshop CC – Advanced Training Cours课程资源</a>
+# <a hrefd="https://www.academia.edu/34453861/Adobe_Photoshop_CC_Classroom_in_a_Book">Adobe Photoshop CC Classroom in a Book+resource</a>
