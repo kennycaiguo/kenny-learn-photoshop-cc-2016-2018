@@ -13,7 +13,7 @@
 # <a href="https://u062.com/file/133802-222492734">《Photoshop经典实例教程3000例》10本电脑编程类电子书打包免费下载589MB.zip</a>
 # <a href="http://mydbfx.com/?p=5364">本站Ps资料以及其他强悍资源打包下载</a>
 # <a href="http://www.psxiazai.com/135713.html">Photoshop图层样式下载</a>
-# <a href=""></a>
+# <a href="http://221.13.137.120:8093/bookcd/index/bdetail.do?RUID=22cd0d6b0003e20bd3">Photoshop CC 2017图像处理入门与进阶+光盘</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
