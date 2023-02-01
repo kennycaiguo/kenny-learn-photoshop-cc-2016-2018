@@ -14,8 +14,8 @@
 # <a href="http://mydbfx.com/?p=5364">本站Ps资料以及其他强悍资源打包下载</a>
 # <a href="http://www.psxiazai.com/135713.html">Photoshop图层样式下载</a>
 # <a href="http://221.13.137.120:8093/bookcd/index/bdetail.do?RUID=22cd0d6b0003e20bd3">Photoshop CC 2017图像处理入门与进阶+光盘</a>
-# <a href=""></a>
-# <a href=""></a>
+# <a href="https://github.com/Paul-Riggott/PS-Scripts">一些有用的Photoshop脚本</a>
+# <a href="https://github.com/LeZuse/photoshop-scripts">Photoshop脚本2</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
