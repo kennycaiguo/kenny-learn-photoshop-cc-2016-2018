@@ -1,5 +1,9 @@
 # kenny-learn-photoshop-cc-2018
 学习photoshop cc2018
+# <a href="https://github.com/kennycaiguo/Photoshop-basic-300examples">Photoshop基础实例300例</a>
+# <a href="https://github.com/kennycaiguo/kenny-learn-photoshop-exercises">ps练习和经验总结</a>
+
+
 # <a href="https://www.jb51.net/softs/620015.html#downintro2">Alien Skin Eye Candy v7.2.3.75 PS眼睛糖果滤镜(鎏金插件) </a>
 # <a href="https://github.com/Adobe-CEP/CEP-Resources/tree/master/ExtendScript-Toolkit">photoshop cc 2018脚本工具下载</a>
 # <a href="http://www.uzzf.com/soft/381510.html">Adobe Photoshop CC 2018 中文免费版</a>
