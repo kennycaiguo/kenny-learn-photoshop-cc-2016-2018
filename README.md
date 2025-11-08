@@ -1,3 +1,6 @@
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41MTGJW) <br>
+
 # kenny-learn-photoshop-cc-2018
 学习photoshop cc2018
 # <a href="https://github.com/kennycaiguo/Photoshop-basic-300examples">Photoshop基础实例300例</a>
